@@ -1,1 +1,1 @@
-   """Package holding one module per agent."""
+"""Package holding one module per agent."""

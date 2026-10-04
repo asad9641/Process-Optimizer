@@ -1,8 +1,8 @@
 """Central settings: models, goals, agent labels, sample data."""
 
 MODELS = {
-    "Llama 3.3 70B (best quality)": "groq/llama-3.3-70b-versatile",
-    "Llama 3.1 8B (fast, higher rate limits)": "groq/llama-3.1-8b-instant",
+    "Llama 3.3 70B (best quality)": "groq/openai/gpt-oss-120b",
+    "Llama 3.1 8B (fast, higher rate limits)": "groq/openai/gpt-oss-120b",
 }
 
 GOALS = [
